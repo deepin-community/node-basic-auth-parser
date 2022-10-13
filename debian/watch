@@ -1,0 +1,7 @@
+version=4
+# It is not recommended use npmregistry. Please investigate more.
+# Origin url: FIX_ME repo url
+# Take a look at https://wiki.debian.org/debian/watch/
+opts="searchmode=plain,pgpmode=none" \
+ https://registry.npmjs.org/basic-auth-parser \
+ https://registry.npmjs.org/basic-auth-parser/-/basic-auth-parser-(\d[\d\.]*)@ARCHIVE_EXT@

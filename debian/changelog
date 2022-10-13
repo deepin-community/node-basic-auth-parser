@@ -1,0 +1,12 @@
+node-basic-auth-parser (0.0.2-2) unstable; urgency=medium
+
+  * Bumping debhelper-compat (no changes).
+  * Adding 'Rules-Requires-Root: no'.
+
+ -- Andrius Merkys <merkys@debian.org>  Mon, 19 Oct 2020 01:56:28 -0400
+
+node-basic-auth-parser (0.0.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #968347)
+
+ -- Andrius Merkys <merkys@debian.org>  Thu, 13 Aug 2020 08:06:25 -0400
